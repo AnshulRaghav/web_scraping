@@ -1,4 +1,4 @@
-# web_scraping
+# Web Scraping
 Scrapping data of odi players and the runs made by them each year using python library BeautifulSoup. </br>
 ### index.ipnyb 
 jupyter notebook file where the main code lies
